@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+
+# 問題解決中
+.storybook
+storybook-static
+stories
