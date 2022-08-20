@@ -1,1 +1,6 @@
-Vite + React + Typescript + Storybook(問題解決中) + Tailwindcss
+Vite + React + Typescript + Storybook + Tailwindcss
+
+
+### node.js version
+
+v16.1.0 起動確認

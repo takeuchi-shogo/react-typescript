@@ -24,7 +24,6 @@ dist-ssr
 *.sw?
 
 
-# 問題解決中
-.storybook
+# storybook
 storybook-static
 stories
